@@ -1,0 +1,20 @@
+body {
+  background-image: linear-gradient(to bottom right, blue, yellow);
+  height: 100vh;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+iframe {
+  text-align: center;
+}
+#body1 {
+ background-image: url("hi.jpg"); 
+ background-position: center;
+ background-repeat: no-repeat;
+background-size: cover;
+ height: 100vh;
+}
