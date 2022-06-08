@@ -1,0 +1,17 @@
+body {
+  background-image: linear-gradient(to bottom right, blue, yellow);
+  height: 100vh;
+}
+#body1 {
+ background-image: url("fred.gif"); 
+ background-position: center;
+ background-repeat: no-repeat;
+background-size: cover;
+ height: 100vh;
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-family: "Brush Script MT";
+  font-size: 80px;
+}

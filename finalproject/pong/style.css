@@ -1,0 +1,14 @@
+canvas {
+  display: block;
+}
+body {
+  background-image: linear-gradient(to bottom right, blue, red);
+  height: 100vh;
+  text-align: center;
+}
+#defaultCanvas0
+{
+  width:800px;
+  margin:auto;
+  margin:top50px;
+}
